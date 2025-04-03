@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Work\C#\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\C#\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\C#\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\C#\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.CoreCompileInputs.cache
