@@ -70,10 +70,10 @@ INSERT INTO StudentRecordTB (
     yearId
 ) 
 VALUES 
-(1, 'John', 'Doe', 'Smith', 123, 'Poblacion', 'Citytown', 'ProvinceX', 'RegionY', 'CountryZ', '2000-05-10', 24, '09171234567', 'john.doe@example.com', 'Jane', 'Doe', 'Reading, Swimming', 'Johnny', 101, 2),
-(2, 'Alice', 'Johnson', 'Marie', 456, 'San Isidro', 'Townville', 'ProvinceY', 'RegionZ', 'CountryX', '1999-08-20', 25, '09179876543', 'alice.johnson@example.com', 'Mark', 'Johnson', 'Photography, Hiking', 'Ali', 102, 1),
-(3, 'Bob', 'Williams', 'Lee', 789, 'Luna', 'Villagetown', 'ProvinceZ', 'RegionA', 'CountryY', '2001-03-15', 23, '09171239876', 'bob.williams@example.com', 'Mary', 'Williams', 'Gaming, Cycling', 'Bobby', 103, 3),
-(4, 'Clara', 'Martinez', 'Gomez', 101, 'Bagumbayan', 'Cityville', 'ProvinceX', 'RegionB', 'CountryZ', '2000-12-05', 24, '09172345678', 'clara.martinez@example.com', 'Carlos', 'Martinez', 'Traveling, Reading', 'Clari', 104, 2),
-(5, 'David', 'Brown', 'Taylor', 202, 'Talipapa', 'Oldtown', 'ProvinceY', 'RegionC', 'CountryX', '1998-06-25', 26, '09173456789', 'david.brown@example.com', 'Susan', 'Brown', 'Movies, Sports', 'Dave', 105, 1);
+(1, 'John', 'Doe', 'Smith', 123, 'Poblacion', 'Citytown', 'ProvinceX', 'RegionY', 'CountryZ', '2000-05-10', 24, '09171234567', 'john.doe@example.com', 'Jane', 'Doe', 'Reading, Swimming', 'Johnny', 1, 2),
+(2, 'Alice', 'Johnson', 'Marie', 456, 'San Isidro', 'Townville', 'ProvinceY', 'RegionZ', 'CountryX', '1999-08-20', 25, '09179876543', 'alice.johnson@example.com', 'Mark', 'Johnson', 'Photography, Hiking', 'Ali', 2, 1),
+(3, 'Bob', 'Williams', 'Lee', 789, 'Luna', 'Villagetown', 'ProvinceZ', 'RegionA', 'CountryY', '2001-03-15', 23, '09171239876', 'bob.williams@example.com', 'Mary', 'Williams', 'Gaming, Cycling', 'Bobby', 3, 3),
+(4, 'Clara', 'Martinez', 'Gomez', 101, 'Bagumbayan', 'Cityville', 'ProvinceX', 'RegionB', 'CountryZ', '2000-12-05', 24, '09172345678', 'clara.martinez@example.com', 'Carlos', 'Martinez', 'Traveling, Reading', 'Clari', 4, 2),
+(5, 'David', 'Brown', 'Taylor', 202, 'Talipapa', 'Oldtown', 'ProvinceY', 'RegionC', 'CountryX', '1998-06-25', 26, '09173456789', 'david.brown@example.com', 'Susan', 'Brown', 'Movies, Sports', 'Dave', 5, 1);
 
 
